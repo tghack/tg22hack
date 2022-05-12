@@ -1,0 +1,33 @@
+name: "CTI_3_GITHUB"
+author: "Kritt"
+category: misc
+description: >
+    SecOpsCommand have gotten information from a third party indicating that the threat actor we call FerRAT downloads software from GitHub to the victims machine after initial access.
+    The third party did not specify the software, and is gone for easter holiday.
+    Based on information from the report, can you figure out the software name?
+    Remember to add TG22{...} around the solution.
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+attempts: 2
+flags:
+    - TG22{Empire}
+tags:
+    - cti
+files:
+    - Uploads/FerRat.pdf
+hints:
+    - {
+        content: "Perhaps MITRE lists software and their names?",
+        cost: 45
+    }
+requirements:
+    - "CTI_1_TODO"
+    - "CTI_2_PROCEDURE_EXAMPLES"
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

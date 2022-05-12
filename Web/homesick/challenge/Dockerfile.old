@@ -1,0 +1,25 @@
+FROM php:7.4-apache
+
+RUN mkdir /chroot
+
+COPY flag /chroot/
+
+RUN apt-get update \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends tzdata \
+    && ln -fs /usr/share/zoneinfo/Europe/Oslo /etc/localtime \
+    && dpkg-reconfigure --frontend noninteractive tzdata \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN ln -s /etc/apache2/mods-available/proxy.load /etc/apache2/mods-enabled/
+RUN ln -s /etc/apache2/mods-available/proxy_http.load /etc/apache2/mods-enabled/
+COPY apache2-nsjail-others.conf /etc/apache2/conf-enabled/
+
+COPY chroot /home/user/chroot
+COPY node /home/user/node
+COPY nsjail.cfg /home/user/nsjail.cfg
+
+COPY www /var/www/html
+RUN chown -R www-data:www-data /var/www
+
+#CMD  bash -c 'source /etc/apache2/envvars && /usr/sbin/apache2 -D FOREGROUND'
+

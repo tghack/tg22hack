@@ -1,0 +1,18 @@
+name: "Mother Robotics"
+author: "skandix"
+category: Reversing
+description: MOTHER hired new programmers, to build a a new login, can you crack it open ?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{rev_15_fun_but_crypto_15_n0t}
+files:
+    - Uploads/robotics
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,23 @@
+name: "Postoffice"
+author: "Solli#0387"
+category: web
+description: >
+    I have made an application to send some data, however I am still getting errors. 
+
+    Can you fix it for me?
+
+    Link: ``postoffice.chall.tghack.no``
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{that_was_some_good_data}
+tags:
+    - web
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

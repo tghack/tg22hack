@@ -1,0 +1,16 @@
+name: "x509"
+author: "Skandix"
+category: forensics
+description: Dangit i forgot the link to this task. Oh well you'll probably figure it out
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+hints:
+    - look at the domain and not subdomain
+flags:
+    - TG22{7h15_15_why_w3_r0ll_w1th_w1ldc4rd_c3rt5}
+state: visible
+version: "0.1"

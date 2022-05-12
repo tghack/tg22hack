@@ -1,0 +1,27 @@
+name: "CTI_2_PROCEDURE_EXAMPLES"
+author: "Kritt"
+category: misc
+description: >
+    T1569.002 (Service Execution) is a sub-technique of T1569 (System Services). 
+    Based on MITRE, how many threat groups other than FerRat utilize both Service Execution and T1059?
+    Remember to add TG22{...} around the solution.
+type: dynamic
+value: 1000
+extra:
+    initial: 500
+    decay: 20
+    minimum: 50
+attempts: 2
+flags:
+    - TG22{4}
+tags:
+    - cti
+    - noob
+files:
+    - Uploads/FerRat.pdf
+requirements:
+    - "CTI_1_TODO"
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

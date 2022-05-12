@@ -1,0 +1,22 @@
+name: "out of the box"
+author: "Oskar"
+category: osint
+description: >
+    I found this riddle on an ex microsoft employee's old laptop i stole and hacked. Can you solve it?
+
+
+    Link: ``http://outofthebox.chall.tghack.no/``
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{3k73_84ng3rRR}
+tags:
+    - osint
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

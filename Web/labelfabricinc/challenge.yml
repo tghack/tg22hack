@@ -1,0 +1,26 @@
+name: "Label Fabric Inc"
+author: "Solli#0387"
+category: web
+description: >
+    Here at TG we have created a homepage for our own label makers.
+
+    Could you check it for vulnerabilities before it goes into production?
+
+    **Flag at /flag**
+
+    Link: labelfabricinc.chall.tghack.no
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{get_me_that_file!}
+tags:
+    - web
+    - php
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

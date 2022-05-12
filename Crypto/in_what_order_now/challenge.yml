@@ -1,0 +1,20 @@
+name: "In what order now?"
+author: "Solli#0387"
+category: Crypto
+description: >
+    This should be convoluted enough so that you cant decode the message, right?
+type: dynamic
+value: 1000
+extra:
+    initial: 500
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{well_well_that_wasnt_to_hard}
+files:
+    - Uploads/gen.py
+    - Uploads/output
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

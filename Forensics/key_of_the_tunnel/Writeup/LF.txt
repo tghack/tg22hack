@@ -1,0 +1,3 @@
+ - load NTUSER.DAT as hive in regedit (eg. https://www.quora.com/How-do-I-open-an-NTuser-DAT-file)
+ - key: Software/OpenVPN-GUI/configs/clientconfig/username
+ - key data fra base64 og rydd opp litt

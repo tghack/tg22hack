@@ -1,0 +1,27 @@
+name: "One, two, three words"
+author: "Snerk#8414"
+category: misc
+description: >
+    I measure ones life in hours, and it serves me by expiring. It's quick when it's thin and slow when it's fat. The wind is **ones** enemy.
+
+
+    **Two** is a coat, but why is it always wet when i put it on?
+
+
+    I hate that even though **three** belongs to me, everyone else uses it.
+
+
+    Flag format: *TG22{ZIPCODE}*
+
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{4178}
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,18 @@
+name: "Key of the tunnel"
+author: "Oskar"
+category: forensics
+description: I am trying to get into this network, can you see if this file is any useful?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{Th15_W45_Sp0n50r3d_By_N0rdvpn}
+files:
+    - Uploads/NTUSER.DAT
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

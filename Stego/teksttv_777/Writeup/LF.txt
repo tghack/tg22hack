@@ -1,0 +1,5 @@
+ffmpeg -i flag.mp4 -map 0:s:0 subs.srt
+
+subs.srt -> 5 -> base64 -> png -> exif -> PassForSoobtitlays321654987
+
+subs.srt -> 6 -> base64 -> rar -> pass = PassForSoobtitlays321654987

@@ -1,0 +1,19 @@
+name: "Fake Flags"
+author: "Ender"
+category: misc
+description: >
+    I made a list containing only fake flags, have a look, it's on my website!
+
+    Site: fakeflag.chall.tghack.no
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{A11_Of_Th353_F4k3_F14g5_M4k3_My_H34d_Hur7}
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

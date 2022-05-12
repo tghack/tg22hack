@@ -1,0 +1,18 @@
+name: "humanize_not_quantize"
+author: "Skandix"
+category: forensics
+description: We made a new way of detecting robots from humans, can you bypass the system?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{hurr4y_y0u_ar3_n0t_4_r0b0t_n31th3r_4m_1}
+files:
+    - Uploads/msg.wav
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

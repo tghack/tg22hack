@@ -1,0 +1,18 @@
+name: "Hide n Seek"
+author: "Ender"
+category: stego
+description: Something is hiding in this file, can you find the flag?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{P33k-4-b00!!}
+files:
+    - ./Uploads/hidenseek.jpg
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,21 @@
+name: "GoGoReversing"
+author: "Skandix"
+category: Reversing
+description: >
+    Seems like someone have tried to write a secure login.
+
+    Can you take a look at it and see if it as secure as they say?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{c4n_y0u_p4ss_m3_th3_s4lt}
+files:
+    - ./Uploads/main
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

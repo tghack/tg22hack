@@ -1,0 +1,21 @@
+name: "teksttv 777"
+author: "Oskar"
+category: stego
+description: >
+    Can you find the hidden message in the video?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{1_pr353n7_70_y0u_p057-5ub-717l35}
+tags:
+    - stego
+files:
+    - ./Uploads/flag.mp4
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

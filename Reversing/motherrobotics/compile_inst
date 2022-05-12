@@ -1,0 +1,1 @@
+// compile med gcc main.c -o robotics -fno-stack-protector -pthread

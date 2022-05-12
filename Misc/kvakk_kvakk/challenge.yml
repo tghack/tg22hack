@@ -1,0 +1,21 @@
+name: "Kvakk Kvakk"
+author: "Skandix"
+category: misc
+description: >
+    Andungen Kvakk-Kvakk har gått seg vil kan du hjelpe kvakk kvakk med å finne veien hjem ?
+
+    https://www.youtube.com/watch?v=TZ5UoV934iw
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{hurr4_du_hj4lp_kv4kk_kv4kk_å_k0mm3_hj3m}
+files:
+    - Uploads/inject.bin
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

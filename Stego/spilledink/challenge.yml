@@ -1,0 +1,20 @@
+name: "Spilled ink"
+author: "Ender"
+category: stego
+description: >
+    I think my super important white paper has been ruined by the ink, can you take a closer look?
+    I need to know if it was the important white paper or not.
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{I_W45_N3v3r_G0nn4_R1ck_R011_Y0u}
+files:
+    - Uploads/inked-document.png
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

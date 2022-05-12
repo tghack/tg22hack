@@ -1,0 +1,21 @@
+name: "leakingflags"
+author: "skandix"
+category: web
+description: >
+    Someone reported this blog to us, that it migth be exphiltrating a flag.
+    Can you help and find the leak?
+
+
+    Link: ``leakingflags.chall.tghack.no``
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{h3ll0_t0_4ll_7h3_r0b0t5_1n_th4_h4u5_fl4g_l34k5_15_b3s7_l34k}
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

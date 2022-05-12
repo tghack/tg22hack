@@ -1,0 +1,19 @@
+name: "Sieve"
+author: "Ender"
+category: misc
+description: >
+    Security through obscurity er tingen. Uheldigvis klarte jeg å miste flagget i bokstavsalaten min, klarer du å sortere det ut?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{E7_G4N5K3_L4NG7_OG_V4N5K311G_F14GG_:)}
+file:
+    - ./Uploads/sieve.txt
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

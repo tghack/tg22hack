@@ -1,0 +1,21 @@
+name: "Golf"
+author: "Skandix"
+category: web
+description: >
+    One of the Devs that does not want to learn about security setup a public api 
+
+    Can you help me break it ?
+
+    Site: golf.chall.tghack.no
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{bruh}
+state: hidden
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

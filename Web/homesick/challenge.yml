@@ -1,0 +1,31 @@
+# This file represents the base specification of your challenge. It is used by
+# other tools to install and deploy your challenge.
+
+# Required sections
+name: "Homesick"
+author: "Solli#0387"
+category: Web
+description: > 
+        Author: Solli#0387
+
+        Can you find your way home, to the place you should have been right now?
+
+        ``https://homesick.chall.tghack.no/``
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+
+flags:
+    - TG22{verdens_beste_og_største_påskehytte}
+    - TG22{verdens_beste_og_største_påske_hytte}
+    - TG22{VERDENS_BESTE_OG_STØRSTE_PÅSKEHYTTE}
+    - TG22{VERDENS_BESTE_OG_STØRSTE_PÅSKE_HYTTE}
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

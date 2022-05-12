@@ -1,0 +1,1 @@
+Du må finne den originale title.wma fila fra windows xp (den ligger i %windir%\System32\oobe\title.wma (hvis jeg husker riktig), eller mange plasser på nettet)

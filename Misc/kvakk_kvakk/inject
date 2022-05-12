@@ -1,0 +1,2700 @@
+####### START #######
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 146
+STRING 125
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 207
+STRING 109
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 122
+STRING 51
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 161
+STRING 106
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 172
+STRING 104
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 132
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 78
+STRING 51
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 147
+STRING 109
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 199
+STRING 109
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 131
+STRING 48
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 219
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 168
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 256
+STRING 229
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 207
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 159
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 158
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 159
+STRING 52
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 200
+STRING 118
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 207
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 137
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 137
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 211
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 137
+STRING 52
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 235
+STRING 118
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 130
+STRING 107
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 122
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 202
+STRING 112
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 209
+STRING 108
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 127
+STRING 52
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 133
+STRING 106
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 223
+STRING 104
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 123
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 152
+STRING 117
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 147
+STRING 100
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 156
+STRING 95
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 92
+STRING 52
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 224
+STRING 114
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 125
+STRING 114
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 146
+STRING 117
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 193
+STRING 104
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 235
+STRING 123
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 90
+STRING 50
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 135
+STRING 50
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 86
+STRING 71
+ENTER
+
+GUI r
+DELAY 50
+STRING firefox.exe
+ENTER
+DELAY 100
+STRING github.com
+
+GUI r
+DELAY 50
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING gathering.org
+
+GUI r
+DELAY 50
+STRING edge.exe
+ENTER
+DELAY 100
+STRING wannabe.gathering.org
+
+GUI r
+DELAY 50
+STRING explorer.exe
+ENTER
+DELAY 100
+STRING youtube.com
+
+GUI r
+DELAY 50
+STRING msfvenom.exe
+ENTER
+DELAY 100
+STRING twitter.com/tghack_ctf
+
+GUI r
+DELAY 50
+STRING powershell.exe
+ENTER
+DELAY 100
+STRING startsiden.no
+
+GUI r
+DELAY 50
+STRING cmd.exe
+ENTER
+DELAY 100
+STRING meny.no
+
+GUI r
+DELAY 50
+STRING winGet.exe
+ENTER
+DELAY 100
+STRING pastebin.org
+
+DELAY 147
+STRING 84
+ENTER

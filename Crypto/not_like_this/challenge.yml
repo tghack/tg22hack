@@ -1,0 +1,22 @@
+name: "Not Like This"
+author: "Solli#0387"
+category: Crypto
+description: >
+    Another attempt at making a simple encryption scheme,
+
+    I think it would have been good around 27 BC
+type: dynamic
+value: 1000
+extra:
+    initial: 500
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{just_a_little_rot13_in_hex}
+files:
+    - Uploads/gen.py
+    - Uploads/output
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

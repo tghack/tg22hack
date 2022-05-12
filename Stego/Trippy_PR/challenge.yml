@@ -1,0 +1,19 @@
+name: "Trippy PR"
+author: "skandix"
+category: stego
+description: >
+    Trippy PR goes tweet tweet.
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{tr1ppy_h1ppy_bu7_h1dd3n_fl4g5_4r3_kk00l}
+files:
+    - Uploads/bring_it_on.jpg
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

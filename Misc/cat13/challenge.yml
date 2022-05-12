@@ -1,0 +1,21 @@
+name: "cat13"
+author: "Solli#0387"
+category: misc
+description: >
+    Ceasar proivded me with a message before the competition began.
+
+    Can you help me read the contents?
+type: dynamic
+value: 1000
+extra:
+    initial: 1000
+    decay: 20
+    minimum: 50
+flags:
+    - TG22{relay_my_message}
+files:
+    - Uploads/synt.cat
+state: visible
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"
